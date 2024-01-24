@@ -1,0 +1,2 @@
+class StableDiffusion:
+    pass
